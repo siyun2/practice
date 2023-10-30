@@ -4,12 +4,14 @@
     "slug": "Hcare",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icons.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#7254f5",
+      "height": 50,
+      "width": 50
     },
     "assetBundlePatterns": [
       "**/*"
